@@ -30,15 +30,15 @@
     "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/march-2026"
   },
   {
-    "source": "FSB",
-    "title": "FSB kicks off new implementation phase to enhance cross-border payments through public-private partnership",
-    "date": "Thu, 12 Mar 2026 15:30:00 +0000",
-    "url": "https://www.fsb.org/2026/03/fsb-kicks-off-new-implementation-phase-to-enhance-cross-border-payments-through-public-private-partnership/"
-  },
-  {
     "source": "FCA (UK)",
     "title": "From promise to practice: shaping open finance policy with our Smart Data Accelerator",
-    "date": "Tuesday, April 28, 2026 - 10:03",
+    "date": "Tuesday, April 28, 2026 - 06:03",
     "url": "https://www.fca.org.uk/news/blogs/promise-practice-shaping-open-finance-policy-our-smart-data-accelerator"
+  },
+  {
+    "source": "ESMA (EU)",
+    "title": "ESMA support ESEF implementation with updated taxonomy",
+    "date": "",
+    "url": "https://www.esma.europa.eu/press-news/esma-news/esma-support-esef-implementation-updated-taxonomy"
   }
 ]
