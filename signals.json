@@ -1,15 +1,21 @@
 [
   {
     "source": "PRA / BoE (UK)",
-    "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - April 2026",
-    "date": "Thu, 30 Apr 2026 12:00:00 +0100",
-    "url": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-april-2026"
+    "title": "BoE, FCA and HM Treasury joint statement on Frontier AI models and cyber resilience",
+    "date": "Fri, 15 May 2026 15:00:00 +0100",
+    "url": "https://www.bankofengland.co.uk/news/2026/may/boe-fca-and-hm-treasury-joint-statement-on-frontier-ai-models-and-cyber-resilience"
   },
   {
     "source": "PRA / BoE (UK)",
     "title": "Bank Rate maintained at 3.75% - April 2026 Monetary Policy Summary and Minutes",
     "date": "Thu, 30 Apr 2026 12:00:00 +0100",
     "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/april-2026"
+  },
+  {
+    "source": "PRA / BoE (UK)",
+    "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - April 2026",
+    "date": "Thu, 30 Apr 2026 12:00:00 +0100",
+    "url": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-april-2026"
   },
   {
     "source": "FSB",
@@ -34,11 +40,5 @@
     "title": "Financial Policy Committee Record – April 2026",
     "date": "Wed, 01 Apr 2026 10:30:00 +0100",
     "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/april-2026"
-  },
-  {
-    "source": "FCA (UK)",
-    "title": "FCA statement on legal challenges to motor finance scheme",
-    "date": "Friday, May 1, 2026 - 12:37",
-    "url": "https://www.fca.org.uk/news/statements/fca-statement-legal-challenges-motor-finance-scheme"
   }
 ]
