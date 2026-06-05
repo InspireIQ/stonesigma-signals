@@ -1,6 +1,12 @@
 [
   {
     "source": "PRA / BoE (UK)",
+    "title": "Bank of England and Financial Conduct Authority – Memorandum of Understanding on the supervision of Financial Market Infrastructure",
+    "date": "Fri, 05 Jun 2026 10:25:00 +0100",
+    "url": "https://www.bankofengland.co.uk/news/2026/june/boe-and-fca-mou-on-supervision-of-financial-market-infrastructures"
+  },
+  {
+    "source": "PRA / BoE (UK)",
     "title": "Statistical Notice 2026/05 - Implementation of Bank of England Statistics Taxonomy v1.3.1",
     "date": "Wed, 03 Jun 2026 13:47:51 +0100",
     "url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-05"
@@ -34,11 +40,5 @@
     "title": "Scope of Insurers Subject to the Recovery and Resolution Planning Requirements in the FSB Key Attributes: Final Report",
     "date": "Wed, 29 Apr 2026 07:28:05 +0000",
     "url": "https://www.fsb.org/2026/04/scope-of-insurers-subject-to-the-recovery-and-resolution-planning-requirements-in-the-fsb-key-attributes-final-report/"
-  },
-  {
-    "source": "FCA (UK)",
-    "title": "Our response to the Treasury’s policy statement on Consumer Credit Act reform",
-    "date": "Monday, May 18, 2026 - 13:10",
-    "url": "https://www.fca.org.uk/news/statements/our-response-treasurys-policy-statement-consumer-credit-act-reform"
   }
 ]
