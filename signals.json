@@ -1,6 +1,12 @@
 [
   {
     "source": "PRA / BoE (UK)",
+    "title": "Bank of England launches policy statement and draft rules on regulating systemic stablecoins",
+    "date": "Mon, 22 Jun 2026 08:30:00 +0100",
+    "url": "https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins"
+  },
+  {
+    "source": "PRA / BoE (UK)",
     "title": "Bank Rate maintained at 3.75% - June 2026 Monetary Policy Summary and Minutes",
     "date": "Thu, 18 Jun 2026 12:00:00 +0100",
     "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/june-2026"
@@ -34,11 +40,5 @@
     "title": "The Bank, FCA and HM Treasury joint statement on Frontier AI models and cyber resilience",
     "date": "Fri, 15 May 2026 15:00:00 +0100",
     "url": "https://www.bankofengland.co.uk/news/2026/may/boe-fca-and-hm-treasury-joint-statement-on-frontier-ai-models-and-cyber-resilience"
-  },
-  {
-    "source": "FCA (UK)",
-    "title": "Bank of England and FCA MoU on supervision of market infrastructure: 2025/26 review",
-    "date": "Friday, June 5, 2026 - 10:30",
-    "url": "https://www.fca.org.uk/news/statements/bank-england-fca-mou-supervision-market-infrastructure-review-2025-26"
   }
 ]
