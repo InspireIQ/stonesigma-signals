@@ -1,6 +1,12 @@
 [
   {
     "source": "PRA / BoE (UK)",
+    "title": "The Retail Payments Infrastructure Board launches consultation on the next generation UK payments infrastructure",
+    "date": "Thu, 25 Jun 2026 10:00:00 +0100",
+    "url": "https://www.bankofengland.co.uk/news/2026/june/rpib-launches-consultation-on-next-generation-uk-payments-infrastructure"
+  },
+  {
+    "source": "PRA / BoE (UK)",
     "title": "Bank of England launches policy statement and draft rules on regulating systemic stablecoins",
     "date": "Mon, 22 Jun 2026 08:30:00 +0100",
     "url": "https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins"
@@ -34,11 +40,5 @@
     "title": "Statistical Notice 2026/05 - Implementation of Bank of England Statistics Taxonomy v1.3.1",
     "date": "Wed, 03 Jun 2026 13:47:51 +0100",
     "url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-05"
-  },
-  {
-    "source": "PRA / BoE (UK)",
-    "title": "The Bank, FCA and HM Treasury joint statement on Frontier AI models and cyber resilience",
-    "date": "Fri, 15 May 2026 15:00:00 +0100",
-    "url": "https://www.bankofengland.co.uk/news/2026/may/boe-fca-and-hm-treasury-joint-statement-on-frontier-ai-models-and-cyber-resilience"
   }
 ]
