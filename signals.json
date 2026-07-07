@@ -1,6 +1,12 @@
 [
   {
     "source": "PRA / BoE (UK)",
+    "title": "Financial Policy Committee Record – July 2026",
+    "date": "Tue, 07 Jul 2026 10:30:00 +0100",
+    "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/july-2026"
+  },
+  {
+    "source": "PRA / BoE (UK)",
     "title": "The Retail Payments Infrastructure Board launches consultation on the next generation UK payments infrastructure",
     "date": "Thu, 25 Jun 2026 10:00:00 +0100",
     "url": "https://www.bankofengland.co.uk/news/2026/june/rpib-launches-consultation-on-next-generation-uk-payments-infrastructure"
@@ -34,11 +40,5 @@
     "title": "Bank of England and Financial Conduct Authority – Memorandum of Understanding on the supervision of Financial Market Infrastructure",
     "date": "Fri, 05 Jun 2026 10:25:00 +0100",
     "url": "https://www.bankofengland.co.uk/news/2026/june/boe-and-fca-mou-on-supervision-of-financial-market-infrastructures"
-  },
-  {
-    "source": "PRA / BoE (UK)",
-    "title": "Statistical Notice 2026/05 - Implementation of Bank of England Statistics Taxonomy v1.3.1",
-    "date": "Wed, 03 Jun 2026 13:47:51 +0100",
-    "url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-05"
   }
 ]
