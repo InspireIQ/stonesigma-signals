@@ -1,6 +1,12 @@
 [
   {
     "source": "FSB",
+    "title": "Report of the auditor to FSB Plenary on the financial statements 2025-2026",
+    "date": "Fri, 04 Sep 2026 11:15:00 +0000",
+    "url": "https://www.fsb.org/uploads/P040926-2.pdf"
+  },
+  {
+    "source": "FSB",
     "title": "Public responses to consultation on Sound Practices for Responsible Adoption of Artificial Intelligence (AI)",
     "date": "Thu, 06 Aug 2026 15:57:25 +0000",
     "url": "https://www.fsb.org/2026/08/public-responses-to-consultation-on-sound-practices-for-responsible-adoption-of-artificial-intelligence-ai/"
@@ -34,11 +40,5 @@
     "title": "The Retail Payments Infrastructure Board launches consultation on the next generation UK payments infrastructure",
     "date": "Thu, 25 Jun 2026 10:00:00 +0100",
     "url": "https://www.bankofengland.co.uk/news/2026/june/rpib-launches-consultation-on-next-generation-uk-payments-infrastructure"
-  },
-  {
-    "source": "PRA / BoE (UK)",
-    "title": "Bank of England launches policy statement and draft rules on regulating systemic stablecoins",
-    "date": "Mon, 22 Jun 2026 08:30:00 +0100",
-    "url": "https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins"
   }
 ]
