@@ -1,15 +1,21 @@
 [
   {
     "source": "PRA / BoE (UK)",
-    "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-    "date": "Thu, 17 Sep 2026 12:00:00 +0100",
-    "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026"
+    "title": "Monetary Policy Committee dates for 2027",
+    "date": "Thu, 17 Sep 2026 14:30:00 +0100",
+    "url": "https://www.bankofengland.co.uk/news/2026/september/mpc-dates-for-2027"
   },
   {
     "source": "PRA / BoE (UK)",
     "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
     "date": "Thu, 17 Sep 2026 12:00:00 +0100",
     "url": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026"
+  },
+  {
+    "source": "PRA / BoE (UK)",
+    "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+    "date": "Thu, 17 Sep 2026 12:00:00 +0100",
+    "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026"
   },
   {
     "source": "FSB",
@@ -34,11 +40,5 @@
     "title": "Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes",
     "date": "Thu, 30 Jul 2026 12:00:00 +0100",
     "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026"
-  },
-  {
-    "source": "PRA / BoE (UK)",
-    "title": "PRA consults on updated guidance for friendly society amalgamations and transfers",
-    "date": "Wed, 22 Jul 2026 10:00:00 +0100",
-    "url": "https://www.bankofengland.co.uk/news/2026/july/pra-consults-on-updated-guidance-for-friendly-society-amalgamations-and-transfers"
   }
 ]
