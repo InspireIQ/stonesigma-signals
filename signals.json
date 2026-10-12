@@ -19,15 +19,15 @@
   },
   {
     "source": "PRA / BoE (UK)",
-    "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-    "date": "Thu, 17 Sep 2026 12:00:00 +0100",
-    "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026"
-  },
-  {
-    "source": "PRA / BoE (UK)",
     "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
     "date": "Thu, 17 Sep 2026 12:00:00 +0100",
     "url": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026"
+  },
+  {
+    "source": "PRA / BoE (UK)",
+    "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+    "date": "Thu, 17 Sep 2026 12:00:00 +0100",
+    "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026"
   },
   {
     "source": "FSB",
@@ -36,9 +36,9 @@
     "url": "https://www.fsb.org/uploads/P040926-2.pdf"
   },
   {
-    "source": "FSB",
-    "title": "Public responses to consultation on Sound Practices for Responsible Adoption of Artificial Intelligence (AI)",
-    "date": "Thu, 06 Aug 2026 15:57:25 +0000",
-    "url": "https://www.fsb.org/2026/08/public-responses-to-consultation-on-sound-practices-for-responsible-adoption-of-artificial-intelligence-ai/"
+    "source": "ESMA (EU)",
+    "title": "ESMA sets out supervisory expectations on services related to unauthorised stablecoins",
+    "date": "",
+    "url": "https://www.esma.europa.eu/press-news/esma-news/esma-sets-out-supervisory-expectations-services-related-unauthorised"
   }
 ]
