@@ -12,18 +12,6 @@
     "url": "https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026"
   },
   {
-    "source": "FSB",
-    "title": "Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Final report",
-    "date": "Thu, 15 Oct 2026 04:00:01 +0000",
-    "url": "https://www.fsb.org/2026/10/sound-practices-for-responsible-adoption-of-artificial-intelligence-ai-final-report/"
-  },
-  {
-    "source": "FSB",
-    "title": "Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Overview of consultation responses",
-    "date": "Thu, 15 Oct 2026 04:00:01 +0000",
-    "url": "https://www.fsb.org/2026/10/sound-practices-for-responsible-adoption-of-artificial-intelligence-ai-overview-of-consultation-responses/"
-  },
-  {
     "source": "PRA / BoE (UK)",
     "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
     "date": "Fri, 02 Oct 2026 09:00:00 +0100",
@@ -40,5 +28,11 @@
     "title": "ESMA updates its manual on transparency with new guidance for OTC derivatives and tick-size regime",
     "date": "",
     "url": "https://www.esma.europa.eu/press-news/esma-news/esma-updates-its-manual-transparency-new-guidance-otc-derivatives-and-tick"
+  },
+  {
+    "source": "ESMA (EU)",
+    "title": "ESMA's third Sanctions Report highlights the need for greater convergence in enforcement",
+    "date": "",
+    "url": "https://www.esma.europa.eu/press-news/esma-news/esmas-third-sanctions-report-highlights-need-greater-convergence-enforcement"
   }
 ]
